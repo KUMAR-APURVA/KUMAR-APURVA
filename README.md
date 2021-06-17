@@ -3,7 +3,7 @@
 <h3 align="center">Programmer and Mathematician</h3>
 <h4 align = "center">3rd Year Undergraduate, Delhi Technological University</h4><br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KUMAR-APURVA" alt="NONE" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KUMAR-APURVA"  alt="NONE" /></a> </p>
 
                                🔭 I’m currently working on 
 
