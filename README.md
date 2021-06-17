@@ -1,11 +1,15 @@
 <p align="center"><img style ="margin:auto;" align="center" src= "https://miro.medium.com/max/2800/0*3iJLQaoQI66YJuQk.jpg" height=300 width=600></p>
 <h1 align="center">Hi I'm Kumar Apurva</h1>
 <h3 align="center">Programmer and Mathematician</h3>
-<h4 align = "center">3rd Year Undergraduate, Delhi Technological University</h4><br>
+<h3 align = "center">3rd Year Undergraduate, Delhi Technological University</h3><br>
 
+<h2 align="center">🏆 Github Profile Trophy</h2>
 <p align="center">
-<a href="https://github.com/KUMAR-APURVA/github-profile-trophy"><h2 align="left">🏆 Github Profile Trophy</h2></a><a href="https://github.com/KUMAR-APURVA/github-profile-trophy"> <img width=3000 src="https://github-profile-trophy.vercel.app/?username=KUMAR-APURVA&column=8&theme=gruvbox&no-frame=true"/></a>
+<a href="https://github.com/KUMAR-APURVA/github-profile-trophy"></a>
+<a href="https://github.com/KUMAR-APURVA/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=KUMAR-APURVA&column=7&theme=gruvbox&no-frame=true"/></a>
  </p>
+
 
                                🔭 I’m currently working on Practical NLP book codes.
 
