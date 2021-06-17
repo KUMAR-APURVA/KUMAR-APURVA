@@ -1,11 +1,11 @@
-<p align="center"><img style ="margin:auto;" align="center" src= "https://miro.medium.com/max/1024/0*4ty0Adbdg4dsVBo3.png"></p>
+<p align="center"><img style ="margin:auto;" align="center" src= "https://miro.medium.com/max/2800/0*3iJLQaoQI66YJuQk.jpg" height=300 width=600></p>
 <h1 align="center">Hi I'm Kumar Apurva</h1>
 <h3 align="center">Programmer and Mathematician</h3>
 <h4 align = "center">3rd Year Undergraduate, Delhi Technological University</h4><br>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KUMAR-APURVA"  alt="NONE" /></a> </p>
 
-                               🔭 I’m currently working on 
+                               🔭 I’m currently working on Practical NLP book codes.
 
                                🌱 I’m currently learning TensorFlow, Deep Learning Algorithms and Python.
 
