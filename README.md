@@ -1,4 +1,4 @@
-<p align="center"><img style ="margin:auto;" align="center" src= "https://i.pinimg.com/originals/66/44/b3/6644b34c91f57f8d40a4eaa94e3cb797.png"></p>
+<p align="center"><img style ="margin:auto;" align="center" src= "https://miro.medium.com/max/1024/0*4ty0Adbdg4dsVBo3.png"></p>
 <h1 align="center">Hi I'm Kumar Apurva</h1>
 <h3 align="center">Programmer and Mathematician</h3>
 <h4 align = "center">3rd Year Undergraduate, Delhi Technological University</h4><br>
