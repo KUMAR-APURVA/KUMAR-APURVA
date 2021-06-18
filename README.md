@@ -11,7 +11,7 @@
  </p>
 
 
-                               🔭 I’m currently working on Practical NLP book codes.
+                               🔭 I’m currently working on Practical NLP repository.
 
                                🌱 I’m currently learning TensorFlow, Deep Learning Algorithms and Python.
 
@@ -23,7 +23,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/kumar-apurva-000b38197/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kunal-sharma-469962166/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kumar-apurva-000b38197/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg"  height="30" width="40" /></a>       <a href="https://www.facebook.com/kumar.apurv.7/" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-512.png"  height="30" width="40" /></a>
 
 </p>
 
