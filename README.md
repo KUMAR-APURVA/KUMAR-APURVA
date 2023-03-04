@@ -1,7 +1,8 @@
 <p align="center"><img style ="margin:auto;" align="center" src= "https://64.media.tumblr.com/14f296b2d81f9a2b9e191d82128de36d/tumblr_inline_pj8gz5hoXz1ro5idi_500.gifv" height=300 width=600></p>
 <h1 align="center">Hi I'm Kumar Apurva</h1>
 <h3 align="center">Programmer and Mathematician</h3>
-<h3 align = "center">4th Year Undergraduate, Delhi Technological University</h3><br>
+<h3 align = "center" >Data Analyst at Innovaccer </h3>
+<h3 align = "center">Graduated from Delhi Technological University</h3><br>
 
 <h2 align="center">🏆 Github Profile Trophy</h2>
 <p align="center">
